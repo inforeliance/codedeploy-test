@@ -4,6 +4,7 @@
 export NODE_ENV=production
 
 cd /var/www/wwwroot/
+npm install grunt
 npm update
 npm install
 bower install
