@@ -1,7 +1,7 @@
 #!/bin/bash
 . ~/.bashrc
 
-export NODE_ENV=production
+#export NODE_ENV=production
 
 cd /var/www/wwwroot/
 npm install grunt
